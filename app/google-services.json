@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "234288032328",
+    "project_id": "my-project-application-c50b1",
+    "storage_bucket": "my-project-application-c50b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:234288032328:android:fb8b5ba9eb8e8f99c7467d",
+        "android_client_info": {
+          "package_name": "com.dilum.myprojectapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrZe_f-tRGMiq2ez1CNC0aSc7r6RfB42o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
